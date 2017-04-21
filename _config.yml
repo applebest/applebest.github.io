@@ -5,9 +5,9 @@ header-img: img/post-bg-desk.jpg
 email: 1058315063@qq.com
 description: "每天一点点,世界日日新——前端开发工程师"
 keyword: "React,Node.js,JavaScript,Vue,Es2015"
-url: "http://leesx.github.io"          # your host, for absolute URL
+url: "applebest.github"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/leesx/leesx.github.io" # you code repository
+github_repo: "https://github.com/applebest/applebest.github.io" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
